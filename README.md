@@ -1,5 +1,6 @@
 # instan_app_ag_insurance
 Instant App developped during my intership in AG Insurance
+
 You need Android Studio 3.0 (or higher) to build the project
 
 More example here :
